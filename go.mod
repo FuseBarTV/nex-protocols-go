@@ -1,4 +1,4 @@
-module github.com/PretendoNetwork/nex-protocols-go
+module github.com/FuseBarTV/nex-protocols-go
 
 go 1.18
 
