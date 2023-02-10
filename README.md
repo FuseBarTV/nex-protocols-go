@@ -10,7 +10,7 @@
 
 ### Install
 
-`go get github.com/PretendoNetwork/nex-protocols-go`
+`go get github.com/FuseBarTV/nex-protocols-go`
 
 ### Usage
 
